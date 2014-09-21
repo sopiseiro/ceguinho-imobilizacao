@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1rsCadastro" value="name:nome;datatype:blob,name:data_nascimento;datatype:date,name:rg;datatype:string,name:cpf;datatype:string,name:endereco;datatype:string,name:bairro;datatype:string,name:cidade;datatype:string,name:uf;datatype:string,name:cep;datatype:string,name:telefone;datatype:string,name:celular;datatype:string,name:email;datatype:string,name:senha;datatype:int" />
+</info>
